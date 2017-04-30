@@ -1,0 +1,30 @@
+.navbar-brand{
+	display: flex;
+}
+
+.jumbotron{
+	background color: #ffaa00;
+}
+
+*{
+	font-family: 'Indie Flower', cursive;
+}
+
+#myNavbar{
+	padding-top: 3%;
+
+}
+
+.container{
+	background-color: lightblue;
+
+}
+
+#adrian{
+ 	padding left: 15%;
+ 	
+ }
+
+ .jumbotron{
+ 	background-color: lightblue;
+ }

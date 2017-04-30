@@ -1,0 +1,53 @@
+
+
+.sub{
+	display: inline-block;
+}
+
+.adi{
+	padding-left: 12%;
+}
+
+.well{
+	padding-left: 2%;
+}
+
+h3{
+	color: red;
+}
+
+dt{
+	color: skyblue;
+}
+
+ul{
+	    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+
+}
+
+.footer{
+
+    width: 100%;
+    font-family: 'trebuchet ms', sans-serif;
+    font-size: 100%;
+    height: 80px;
+    padding-top: 3%;
+    padding-bottom: 6%;
+    text-align: center;
+    background: black;
+    border-top: 2px solid #E7746F;
+    color: #FFF;
+    margin-bottom: auto;
+}
+
+body {
+    font: normal 1.5em 'trebuchet ms', arial, sans-serif;
+    background: hsl(30, 10%, 96%);
+    color: #1d1d1d;
+}
